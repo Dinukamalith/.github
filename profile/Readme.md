@@ -40,12 +40,8 @@
 
 
 
-My github stats
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=szbots" alt="szbots" /></a> </p>
 
- 
- 
  ## 🏆 GitHub Activity
 
-![Metrics](https://metrics.lecoq.io/szsupunma?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang)
+![Metrics](https://metrics.lecoq.io/szbots?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang)
  

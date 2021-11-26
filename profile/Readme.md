@@ -13,7 +13,7 @@
  <p align="center"><a href="https://szsupunma.github.io/supunma"><img src="https://telegra.ph/file/a7a6731cb535a636a1d6b.png" width="400"></a></p>
 <p align="center"></P>
 
- **Languages,**
+ ## **Languages,**
 
 <a href="https://python.org/">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -32,16 +32,25 @@
 </a>
 
 
-**Code Editors,**
+## **Code Editors,**
 
 <a href="https://code.visualstudio.com/">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-44475a?style=for-the-badge&logo=visualstudiocode&logoColor=1793D1">
 </a>
 
+## Our Team
 
-
+- [supunma](https://github.com/szsupunma)
+- [Tinura Dinith](https://github.com/orgs/szbots/people/TinuraD)
+- [Sadew Rukshan [ᴄɢꜱ™]](https://t.me/CGSUpdates)
+- [Dileepa_Malshan](https://github.com/orgs/szbots/people/Dileepa-Malshan)
+- [OMINDA DILSHAN RESPACT](https://github.com/orgs/szbots/people/omindadelshan)
+- [Denuwan](https://github.com/orgs/szbots/people/ImDenuwan)
+- [Inuka Ranmira](https://github.com/orgs/szbots/people/InukaRanmira)
+- [Supun Max](https://github.com/orgs/szbots/people/maxsupun)
 
  ## 🏆 GitHub Activity
 
 ![Metrics](https://metrics.lecoq.io/szbots?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang)
  
+

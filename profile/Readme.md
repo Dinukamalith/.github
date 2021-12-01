@@ -48,6 +48,7 @@
 - [Denuwan](https://github.com/orgs/szbots/people/ImDenuwan)
 - [Inuka Ranmira](https://github.com/orgs/szbots/people/InukaRanmira)
 - [Supun Max](https://github.com/orgs/szbots/people/maxsupun)
+- [Hirun Lakshan](https://github.com/HirunLakshan)
 
  ## 🏆 GitHub Activity
 
